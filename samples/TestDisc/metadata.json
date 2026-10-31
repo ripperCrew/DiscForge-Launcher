@@ -1,0 +1,24 @@
+{
+  "formatVersion": 1,
+  "gameTitle": "The Legend of Zelda: Twilight Princess",
+  "subtitle": "Édition de démonstration",
+  "edition": "Disque de test",
+  "instructions": "Indiquez le dossier copié au projet de recompilation. Ce programme ne lance pas le jeu.",
+  "filesystem": "UDF 2.01",
+  "artwork": {
+    "file": "artwork.png",
+    "mediaType": "image/png"
+  },
+  "gameFiles": {
+    "directory": "GameFiles",
+    "fileCount": 2,
+    "totalBytes": 92
+  },
+  "manifest": {
+    "file": "manifest.json",
+    "algorithm": "SHA-256"
+  },
+  "launcher": {
+    "file": "PLAY.exe"
+  }
+}

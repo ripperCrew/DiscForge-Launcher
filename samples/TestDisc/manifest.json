@@ -1,0 +1,19 @@
+{
+  "formatVersion": 1,
+  "algorithm": "SHA-256",
+  "root": "GameFiles",
+  "fileCount": 2,
+  "totalBytes": 92,
+  "files": [
+    {
+      "path": "bonus/data.bin",
+      "size": 64,
+      "sha256": "20a7ec84684f7fe124cb3727d049734ab0b7da2f52fcafbcef989ecfd91e870b"
+    },
+    {
+      "path": "Legend of Zelda, The - Twilight Princess.txt",
+      "size": 28,
+      "sha256": "c5d1e78754a6b0718abd0a07c42480507bf1e39dbc98b61be079427491e1e580"
+    }
+  ]
+}

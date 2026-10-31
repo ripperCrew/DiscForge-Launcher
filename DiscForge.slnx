@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DiscForge.App/DiscForge.App.csproj" />
+    <Project Path="src/DiscForge.Core/DiscForge.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DiscForge.Core.Tests/DiscForge.Core.Tests.csproj" />
+  </Folder>
+</Solution>
